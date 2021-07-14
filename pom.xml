@@ -17,7 +17,7 @@
     </parent>
 
     <artifactId>one-boot</artifactId>
-    <groupId>io.github.jonn</groupId>
+    <groupId>io.github.jonn-ccz</groupId>
     <version>1.0-SNAPSHOT</version>
     <name>one-boot</name>
     <description>welcome to be a contributor</description>
@@ -103,12 +103,12 @@
                 <scope>import</scope>
             </dependency>
             <dependency>
-                <groupId>io.github.jonn</groupId>
+                <groupId>io.github.jonn-ccz</groupId>
                 <artifactId>one-boot-core</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
             <dependency>
-                <groupId>io.github.jonn</groupId>
+                <groupId>io.github.jonn-ccz</groupId>
                 <artifactId>one-boot-toolkit</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
