@@ -1,0 +1,8 @@
+${AnsiColor.BRIGHT_BLUE}________                  __________               __   ${AnsiColor.BRIGHT_BLUE}____ ${AnsiStyle.NORMAL}                __
+${AnsiColor.BRIGHT_BLUE}\_____  \   ____   ____   \______   \ ____   _____/  |_${AnsiColor.BRIGHT_BLUE}/ __ )${AnsiStyle.NORMAL}
+${AnsiColor.BRIGHT_BLUE} /   |   \ /    \_/ __ \   |    |  _//  _ \ /  _ \   __\${AnsiColor.BRIGHT_BLUE}/ __  |${AnsiStyle.NORMAL}
+${AnsiColor.BRIGHT_BLUE}/    |    \   |  \  ___/   |    |   (  <_> |  <_> )  |${AnsiColor.BRIGHT_BLUE}/ /_/ /${AnsiStyle.NORMAL}
+${AnsiColor.BRIGHT_BLUE}\_______  /___|  /\___  >  |______  /\____/ \____/|__| ${AnsiColor.BRIGHT_BLUE}/_____/${AnsiStyle.NORMAL}
+${AnsiColor.BRIGHT_BLUE}        \/     \/     \/          \/${AnsiColor.BRIGHT_BLUE}/_____/${AnsiStyle.NORMAL}
+
+${AnsiColor.RED}:: Ooe Boot ::${AnsiStyle.NORMAL}   (1.0.SNAPSHOT)    Spring Boot:${spring-boot.version}
