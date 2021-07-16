@@ -5,4 +5,4 @@ ${AnsiColor.BRIGHT_BLUE}/    |    \   |  \  ___/   |    |   (  <_> |  <_> )  |${
 ${AnsiColor.BRIGHT_BLUE}\_______  /___|  /\___  >  |______  /\____/ \____/|__| ${AnsiColor.BRIGHT_BLUE}/_____/${AnsiStyle.NORMAL}
 ${AnsiColor.BRIGHT_BLUE}        \/     \/     \/          \/${AnsiColor.BRIGHT_BLUE}/_____/${AnsiStyle.NORMAL}
 
-${AnsiColor.RED}:: Ooe Boot ::${AnsiStyle.NORMAL}   (1.0.SNAPSHOT)    Spring Boot:${spring-boot.version}
+${AnsiColor.RED}:: One Boot ::${AnsiStyle.NORMAL}   (1.0.SNAPSHOT)    Spring Boot:${spring-boot.version}

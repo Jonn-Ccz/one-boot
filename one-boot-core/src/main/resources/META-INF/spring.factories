@@ -1,2 +1,3 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  spring.config.OneBootCoreConfiguration
+  spring.config.OneBootCoreConfiguration\
+  spring.config.RedisConfig

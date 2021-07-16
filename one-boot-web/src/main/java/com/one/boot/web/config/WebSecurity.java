@@ -9,4 +9,5 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
  * @Description:
  */
 public class WebSecurity extends WebSecurityConfigurerAdapter {
+
 }

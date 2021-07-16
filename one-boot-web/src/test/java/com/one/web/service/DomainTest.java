@@ -1,6 +1,7 @@
 package com.one.web.service;
 
 import com.one.boot.web.WebApplication;
+import com.one.boot.web.domain.TestDomain;
 import com.one.boot.web.service.TestService;
 import org.hamcrest.Matchers;
 import org.junit.Before;
@@ -47,6 +48,7 @@ public class DomainTest {
     @DisplayName("测试查询个别字段")
     public void testSearchSurvey() {
         List<Map<String, Object>> res1 = testService.selectMaps(null, "id", "name");
+        List<Map<String, Object>> res2 = testService.selectMaps(null, TestDomain::getName, TestDomain::getId);
         System.out.println(res1);
     }
 

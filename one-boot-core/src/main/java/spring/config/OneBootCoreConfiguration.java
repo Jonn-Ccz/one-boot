@@ -22,7 +22,6 @@ import java.util.concurrent.ThreadPoolExecutor;
 @Configuration
 public class OneBootCoreConfiguration {
 
-
     @Bean
     @ConditionalOnMissingBean
     public TaskExecutor taskExecutor() {
@@ -44,7 +43,7 @@ public class OneBootCoreConfiguration {
     }
 
     /**
-     * 分页插件配置.
+     * 分页插件配置. 默认Mysql
      */
     @Bean
     @ConditionalOnMissingBean
